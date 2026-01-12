@@ -21,5 +21,5 @@ I love building web applications and solving real-world problems using technolog
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/laxmanmula)  
-- [Email](mailto:your-email@example.com)
+- [Email](mailto:mulalaxman54@gmail.com)
 
