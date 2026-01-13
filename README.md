@@ -44,7 +44,7 @@ I love building web applications and solving real-world problems using technolog
 2. **Data Structures & Algorithms (Java)** – Collection of optimized Java solutions for arrays, strings, linked lists, stacks, queues, trees, and recursion.  
    [Repo Link](https://github.com/laxmanmula6383/DSA)  
 
-3. **Pizza Ordering Application** – Full stack web application for ordering pizzas with user interaction and backend integration.  
+3. **Pizza Ordering Application** – (Servlets,JSP,HTML,CSS) Full stack web application for ordering pizzas with user interaction and backend integration.  
    [Repo Link](https://github.com/laxmanmula6383/PizzApp)  
 
 ## Contact
