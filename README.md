@@ -9,7 +9,7 @@ I love building web applications and solving real-world problems using technolog
 
 ## Experience
 
-### Java Developer  
+### Java Full Stack Developer  
 **Navayuga Infotech Pvt Ltd**  
 **Domain:** Aviation  
 **Experience:** 3.4 Years  
