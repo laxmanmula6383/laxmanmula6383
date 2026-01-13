@@ -47,6 +47,11 @@ I love building web applications and solving real-world problems using technolog
 3. **Pizza Ordering Application** – (Servlets,JSP,HTML,CSS) Full stack web application for ordering pizzas with user interaction and backend integration.  
    [Repo Link](https://github.com/laxmanmula6383/PizzApp)  
 
+## Education
+- **Bachelor of Technology (B.Tech)**  
+  GMR Institute of Technology | 2018 – 2022
+
+
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/laxmanmula)  
 - [Email](mailto:mulalaxman54@gmail.com)
