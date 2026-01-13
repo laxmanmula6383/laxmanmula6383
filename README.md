@@ -33,9 +33,7 @@ I love building web applications and solving real-world problems using technolog
 - **Database:** Oracle, MySQL
 - **Cloud:** AWS
 - **DevOps & Tools:** Docker, Git, Maven, Postman
-- **Architecture:** REST APIs, Microservices (Basics)
-
-
+- **Architecture:** REST APIs, Microservices 
 
 ## Projects
 1. **Levy Billing App** – React + Spring Boot app to manage billing movements.  
