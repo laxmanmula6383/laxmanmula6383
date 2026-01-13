@@ -21,7 +21,7 @@ I love building web applications and solving real-world problems using technolog
 - Worked extensively with **Oracle and SQL databases**, writing complex queries, joins, and performance-optimized SQL.
 - Implemented **business logic** and validations based on aviation billing and operational requirements.
 - Integrated frontend and backend modules to ensure **smooth data flow and system stability**.
-- Deployed and managed applications on **AWS Cloud** (EC2, basic services).
+- Deployed and managed applications on **AWS Cloud** using Elastic Beanstalk, including environment configuration and application deployments.
 - Created and managed **Docker containers** for application deployment and environment consistency.
 - Participated in **bug fixing, performance tuning, and production support** activities.
 - Collaborated with cross-functional teams to deliver features within timelines.
