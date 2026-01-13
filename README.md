@@ -9,7 +9,7 @@ I love building web applications and solving real-world problems using technolog
 - **Frontend:** React, HTML,
 - **Backend:** Spring Boot, JSP
 - **Database:** MySQL, Oracle
-- - **Cloud:** AWS
+- **Cloud:** AWS
 - **Tools & Others:** Git, Maven, Postman, REST API
 
 ## Projects
