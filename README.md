@@ -39,8 +39,9 @@ I love building web applications and solving real-world problems using technolog
 
 ## Projects
 1. **Levy Billing App** – React + Spring Boot app to manage billing movements.  
-   [Repo Link](https://github.com/laxmanmula6383/rcslevy)  
-2. **DSA** – JAVA Programmes.  
+   [Repo Link](https://github.com/laxmanmula6383/rcslevy)
+   
+2. **Data Structures & Algorithms (Java)** – Collection of optimized Java solutions for arrays, strings, linked lists, stacks, queues, trees, and recursion.  
    [Repo Link](https://github.com/laxmanmula6383/DSA)  
 
 3. **Portfolio Website** – Personal portfolio to showcase projects and skills.  
