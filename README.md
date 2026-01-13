@@ -4,8 +4,6 @@
 
 I am a **Java Full Stack Developer** with **3.4 years of professional experience** in building and maintaining enterprise-level web applications in the **Aviation domain**.  
 I have strong hands-on experience in **Java, JSP, Spring Boot, React, Oracle SQL, AWS, and Docker**, and I enjoy developing scalable backend services and user-friendly frontend applications.
-
-I am a **Java Fullstack Developer** with hands-on experience in **Java, Servlet,JSP, Spring Boot, Microservices,React,AWS Cloud, SQL, and Docker**.  
 I love building web applications and solving real-world problems using technology.
 
 
