@@ -43,7 +43,31 @@ I love building web applications and solving real-world problems using technolog
    [Repo Link](https://github.com/laxmanmula6383/DSA)  
 
 3. **Pizza Ordering Application** – (Servlets,JSP,HTML,CSS) Full stack web application for ordering pizzas with user interaction and backend integration.  
-   [Repo Link](https://github.com/laxmanmula6383/PizzApp)  
+   [Repo Link](https://github.com/laxmanmula6383/PizzApp)
+
+
+   ### Safety for Elders Living Alone (Personal Project – In Progress)
+
+A safety-focused web application designed to ensure the well-being of elderly people living alone by implementing a daily check-in mechanism.
+
+**Key Features:**
+- Daily “I’m OK” check-in button for elders
+- Automated SMS alert to family members if a check-in is missed
+- Backend scheduler to detect missed check-ins
+- Simple and elder-friendly design
+- Focused on reliability rather than frequent user interaction
+
+**Tech Stack:**
+- Backend: Spring Boot, Java, Scheduler
+- Frontend: React
+- Database: MySQL
+- Alerts: SMS API
+- Deployment (Planned): AWS
+
+**Status:**  
+🚧 Currently under development. Planned for live deployment after completion.
+
+
 
 ## Education
 - **Bachelor of Technology (B.Tech)**  
