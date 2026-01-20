@@ -46,9 +46,10 @@ I love building web applications and solving real-world problems using technolog
    [Repo Link](https://github.com/laxmanmula6383/PizzApp)
 
 
-   ### Safety for Elders Living Alone (Personal Project – In Progress)
+4. ### Safety for Elders Living Alone (Personal Project – In Progress)
 
-A safety-focused web application designed to ensure the well-being of elderly people living alone by implementing a daily check-in mechanism.
+  A safety-focused web application designed to ensure the well-being of elderly people living alone by implementing a daily check-in mechanism.
+ **Our product ensures that care is never missed, even when families live far away.** 
 
 **Key Features:**
 - Daily “I’m OK” check-in button for elders
@@ -62,7 +63,7 @@ A safety-focused web application designed to ensure the well-being of elderly pe
 - Frontend: React
 - Database: MySQL
 - Alerts: SMS API
-- Deployment (Planned): AWS
+-Deployment (Planned): AWS Elastic Beanstalk
 
 **Status:**  
 🚧 Currently under development. Planned for live deployment after completion.
