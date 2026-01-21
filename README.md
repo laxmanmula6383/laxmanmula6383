@@ -19,7 +19,7 @@ I love building web applications and solving real-world problems using technolog
 - Built and exposed **RESTful APIs** using Spring Boot for integration with frontend systems.
 - Developed responsive **frontend components using React**, including hooks and API integrations.
 - Worked extensively with **Oracle and SQL databases**, writing complex queries, joins, and performance-optimized SQL.
-- Implemented **business logic** and validations based on aviation billing and operational requirements.
+- Implemented **business logic** and validations based on operational requirements.
 - Integrated frontend and backend modules to ensure **smooth data flow and system stability**.
 - Deployed and managed applications on **AWS Cloud** using Elastic Beanstalk, including environment configuration and application deployments.
 - Created and managed **Docker containers** for application deployment and environment consistency.
