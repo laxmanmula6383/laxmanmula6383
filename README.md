@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a **Java Full Stack Developer** with **3.4 years of professional experience** in building and maintaining enterprise-level web applications.  
+I am a **Java Full Stack Developer** with **3+ years of professional experience** in building and maintaining enterprise-level web applications.  
 I have strong hands-on experience in **Java, JSP, Spring Boot, Microservices, React, Oracle SQL, AWS, and Docker**, and I enjoy developing scalable backend services and user-friendly frontend applications.
 I love building web applications and solving real-world problems using technology.
 
@@ -12,7 +12,7 @@ I love building web applications and solving real-world problems using technolog
 ### Java Full Stack Developer  
 **Navayuga Infotech Pvt Ltd**  
 **Domain:** Aviation  
-**Experience:** 3.4 Years  
+**Experience:** 3+ Years  
 
 **Roles & Responsibilities:**
 - Designed and developed **backend applications using Core Java, JSP, and Spring Boot**.
