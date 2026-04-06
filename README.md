@@ -12,7 +12,7 @@ I love building web applications and solving real-world problems using technolog
 ### Java Full Stack Developer  
 **Navayuga Infotech Pvt Ltd**  
 **Domain:** Aviation  
-**Experience:** 3.2 Years  
+**Experience:** 3.3 Years  
 
 **Roles & Responsibilities:**
 - Designed and developed **backend applications using Core Java, JSP, and Spring Boot**.
