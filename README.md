@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a **Java Full Stack Developer** with **3.2 years of professional experience** in building and maintaining enterprise-level web applications.  
+I am a **Java Full Stack Developer** with **3.3 years of professional experience** in building and maintaining enterprise-level web applications.  
 I have strong hands-on experience in **Java, JSP, Spring Boot, Microservices, React, Oracle SQL, AWS, and Docker**, and I enjoy developing scalable backend services and user-friendly frontend applications.
 I love building web applications and solving real-world problems using technology.
 
